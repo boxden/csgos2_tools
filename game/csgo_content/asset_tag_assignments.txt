@@ -1,0 +1,101 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	assets = 
+	[
+		{
+			asset = "materials/debug/debugempty.vmat"
+			tag_ids = 
+			[
+				"imported",
+				"otherproject",
+			]
+		},
+		{
+			asset = "materials/debug/debugempty_color.tga"
+			tag_ids = 
+			[
+				"imported",
+				"otherproject",
+			]
+		},
+		{
+			asset = "materials/debug/particleerror.tga"
+			tag_ids = 
+			[
+				"imported",
+			]
+		},
+		{
+			asset = "materials/debug/particleerror.vtex"
+			tag_ids = 
+			[
+				"imported",
+			]
+		},
+		{
+			asset = "materials/dev/black_cheap.vmat"
+			tag_ids = 
+			[
+				"imported",
+				"otherproject",
+				"ship_none",
+				"integ_to_movie",
+			]
+		},
+		{
+			asset = "materials/dev/gray_50.vmat"
+			tag_ids = 
+			[
+				"otherproject",
+			]
+		},
+		{
+			asset = "materials/dev/reflectivity_10b_color.tga"
+			tag_ids = 
+			[
+				"imported",
+				"otherproject",
+				"ship_none",
+				"integ_to_movie",
+			]
+		},
+		{
+			asset = "materials/dev/reflectivity_50b.vmat"
+			tag_ids = 
+			[
+				"otherproject",
+			]
+		},
+		{
+			asset = "materials/dev/reflectivity_70b_color.tga"
+			tag_ids = 
+			[
+				"imported",
+				"otherproject",
+				"ship_none",
+				"integ_to_movie",
+			]
+		},
+		{
+			asset = "materials/lights/white_color.tga"
+			tag_ids = 
+			[
+				"imported",
+			]
+		},
+		{
+			asset = "materials/particle/particle_debris_burst/particle_debris_burst_001.tga"
+			tag_ids = 
+			[
+				"imported",
+			]
+		},
+		{
+			asset = "sounds/common/null.vsnd"
+			tag_ids = 
+			[
+				"imported",
+			]
+		},
+	]
+}

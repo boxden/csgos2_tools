@@ -1,0 +1,85 @@
+""
+{
+	"options.m_bShowAllAssets"		"0"
+	"options.m_bShowRejectedAssets"		"1"
+	"options.m_bUsePerforceIntegration"		"1"
+	"Material Browser"
+	{
+		"browser_geo"		"AdnQywABAAAAAAGrAAAArQAABdQAAAOKAAABswAAAMcAAAXMAAADggAAAAAAAA=="
+		"browser_state"		"AAAA/wAAAAD9AAAAAAAABBoAAAK8AAAABAAAAAQAAAAIAAAACPwAAAAA"
+		"browser_visible"		"1"
+	}
+	"Property"
+	{
+		"browser_geo"		"AdnQywABAAAAAAGrAAAArQAABdQAAAOKAAABswAAAMcAAAXMAAADggAAAAAAAA=="
+		"browser_state"		"AAAA/wAAAAD9AAAAAAAABBoAAAK8AAAABAAAAAQAAAAIAAAACPwAAAAA"
+		"browser_visible"		"1"
+	}
+	"Model Browser"
+	{
+		"browser_geo"		"AdnQywABAAAAAAGrAAAArQAABdQAAAOKAAABswAAAMcAAAXMAAADggAAAAAAAA=="
+		"browser_state"		"AAAA/wAAAAD9AAAAAAAABBoAAAK8AAAABAAAAAQAAAAIAAAACPwAAAAA"
+		"browser_visible"		"1"
+	}
+	"GlobalAssetBrowserContext"
+	{
+		"browser_geo"		"AdnQywABAAD////4////+AAAB4cAAAQXAAABvQAAANUAAAXWAAADkAAAAAACAA=="
+		"browser_state"		"AAAA/wAAAAD9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAfsAAAA4AEEAcwBzAGUAdABCAHIAbwB3AHMAZQByAF8AVwBvAHIAawBpAG4AZwBTAGUAdABzAEQAbwBjAGsAAAAAAP////8AAAEsAP///wAAAAEAAAJlAAADnvwCAAAAAfsAAAAwAEEAcwBzAGUAdABCAHIAbwB3AHMAZQByAF8AUAByAGUAdgBpAGUAdwBEAG8AYwBrAQAAAEgAAAOeAAAArQD///8AAAUXAAADngAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAABAAAAEABUAG8AbwBsAHMAQgBhAHIBAAAAAP////8AAAAAAAAAAA=="
+		"preview_splitter"		"AAAA/wAAAAAAAAACAAACXgAAAS8AAAAABgEAAAAC"
+		"browser_visible"		"1"
+		"browser_views"
+		{
+			"view_info"
+			{
+				"set_name"		"All Assets"
+				"view_mode_name"		"Grid"
+				"grid_icon_scale"		"1"
+				"mod_selection"
+				{
+					"selected_mods"
+					{
+						"csgo_content"		"1"
+						"csgo"		"1"
+					}
+				}
+				"tag_selection"
+				{
+					"require_all_tags"		"0"
+				}
+				"List"
+				{
+					"column_0_width"		"100"
+					"column_1_width"		"100"
+					"column_2_width"		"100"
+					"column_3_width"		"100"
+				}
+				"active_view"		"1"
+			}
+			"view_info"
+			{
+				"set_name"		"Most Recently Used Assets"
+				"view_mode_name"		"Grid"
+				"grid_icon_scale"		"1"
+				"mod_selection"
+				{
+					"selected_mods"
+					{
+						"csgo_content"		"1"
+						"csgo"		"1"
+					}
+				}
+				"tag_selection"
+				{
+					"require_all_tags"		"0"
+				}
+				"List"
+				{
+					"column_0_width"		"100"
+					"column_1_width"		"100"
+					"column_2_width"		"100"
+					"column_3_width"		"100"
+				}
+			}
+		}
+	}
+}

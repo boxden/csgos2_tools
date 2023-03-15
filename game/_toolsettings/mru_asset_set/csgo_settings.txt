@@ -1,0 +1,46 @@
+"mru_asset_set"
+{
+	"mru"
+	{
+		"1"
+		{
+			"AssetPath"		"materials/error.vmat"
+		}
+		"2"
+		{
+			"AssetPath"		"materials/models/player/custom_player/legacy/tm_phoenix_variantatm_phoenix_v2_legs_varianta.vmat"
+		}
+		"3"
+		{
+			"AssetPath"		"materials/models/player/custom_player/legacy/tm_phoenix_variantatm_phoenix_v2_balaclava_varianta_103.vmat"
+		}
+		"4"
+		{
+			"AssetPath"		"materials/models/player/custom_player/legacy/tm_phoenix_variantatm_phoenix_v2_body_varianta.vmat"
+		}
+		"5"
+		{
+			"AssetPath"		"materials/models/player/custom_player/legacy/tm_phoenix_variantaw_model_phoenix_arms.vmat"
+		}
+		"6"
+		{
+			"AssetPath"		"materials/models/weapons/smg_p90.vmat"
+		}
+		"7"
+		{
+			"AssetPath"		"models/weapons/w_smg_p90_dropped.vmdl"
+		}
+		"8"
+		{
+			"AssetPath"		"maps/world.vmap"
+		}
+		"9"
+		{
+			"AssetPath"		"models/player/custom_player/legacy/tm_phoenix_varianta.vmdl"
+		}
+		"10"
+		{
+			"AssetPath"		"materials/models/player/custom_player/legacy/tm_phoenix_variantb_w_t_base_fullfinger_glove.vmat"
+		}
+	}
+}

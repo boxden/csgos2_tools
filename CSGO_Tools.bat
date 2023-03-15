@@ -1,0 +1,1 @@
+game\bin\win64\csgo.exe -tools -novr -nosteam
